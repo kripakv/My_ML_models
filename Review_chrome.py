@@ -18,7 +18,7 @@ from IPython import get_ipython
 
 # In[5]:
 
-pip install nltk
+
 from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
 import re
