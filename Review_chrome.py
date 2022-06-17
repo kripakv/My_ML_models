@@ -13,7 +13,7 @@ import pickle
 # In[4]:
 
 from IPython import get_ipython
-get_ipython().system('pip install textblob_fr ')
+#get_ipython().system('pip install textblob_fr ')
 
 
 # In[5]:
